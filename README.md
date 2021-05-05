@@ -1,6 +1,6 @@
 - Hi, I’m Ahmed
-- I’m interested in Mobile Development
-- I’m currently learning Flutter
+- interested in Mobile Development
+- currently learning Flutter
 - 📫 Contact Info : sourcecodeman22@gmail.com
 
 <!---
